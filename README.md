@@ -1,2 +1,2 @@
-# Computer-Vision-Repo
-Sample projects for computer vision.
+# Computer Vision
+Computer vision using [open cv](https://opencv.org/) library
