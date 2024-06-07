@@ -25,4 +25,8 @@ pip install opencv-python opencv-python-headless numpy matplotlib
 - OpenCV Documentation
 - [TensorFlow Documentation](https://www.tensorflow.org/api_docs)
 - [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
-- Deep Learning for Computer Vision 
+- Deep Learning for Computer Vision
+
+  ## Object Detection
+  - Run notebook on [google colab](https://colab.research.google.com/drive/14pwNtwzQpma-wbmsds8EUn5LHT5Mw3Rf#scrollTo=kmHer8RGY9Ke)
+  - Add file path of image to use.
