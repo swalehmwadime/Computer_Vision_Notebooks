@@ -30,6 +30,6 @@ pip install opencv-python opencv-python-headless numpy matplotlib
   ## Object Detection
   - Run notebook on [google colab](https://colab.research.google.com/drive/14pwNtwzQpma-wbmsds8EUn5LHT5Mw3Rf#scrollTo=kmHer8RGY9Ke)
   - Add file path of [image](https://github.com/swalehmwadime/Computer_Vision_Notebooks/blob/main/snow-ai.jpg) to use.
- 
+ ------
   - Yolo [Sample notebook](https://colab.research.google.com/drive/10Zj3N8OKqHRZ74Qo9kFyE3odv4mmspkd#scrollTo=9ptGgriBdCzu)
   - [Image path](https://github.com/swalehmwadime/Computer_Vision_Notebooks/blob/main/image1.jpg)
